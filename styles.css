@@ -4,7 +4,7 @@ body {
     background-color: white;
   }
 header {
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(255, 182, 193);
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -27,19 +27,19 @@ nav ul li a {
 
 section {
     padding: 20px;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(255, 182, 193);
     margin: 20px;
     border-radius: 8px;
 }
 section {
     padding: 20px;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(255, 182, 193);
     margin: 20px;
     border-radius: 8px;
  }
 section {
     padding: 20px;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(255, 182, 193);
     margin: 20px;
     border-radius: 8px;
  }
